@@ -14,5 +14,5 @@
     "importsNotUsedAsValues": "error"
   },
 
-  "include": ["src"],
+  "include": ["src"]
 }
