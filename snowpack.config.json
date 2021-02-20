@@ -10,6 +10,8 @@
     "dest": "/index.html"
   }],
 
+  "plugins": ["@snowpack/plugin-typescript"],
+
   "devOptions": {
     "open": "none"
   }
